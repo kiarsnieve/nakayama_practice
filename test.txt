@@ -1,4 +1,5 @@
-�}�[�W���N�G�X�g�O
+文字コード修正
+マージリクエスト前
 bbbbbbbb
-�u�����`aaaaaaaa
-�v�b�V���̃e�X�g
+ブランチaaaaaaaa
+プッシュのテスト
